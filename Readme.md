@@ -1,4 +1,4 @@
-![MasterHead]([https://www.9series.com/img/services/full-stack/best%20Full%20Stack%20development%20company%20in%20India.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fweb-development&psig=AOvVaw1tcK0nO82JAnQHpG5lilVs&ust=1683740856368000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKCektDl6P4CFQAAAAAdAAAAABAD))
+![MasterHead](https://www.9series.com/img/services/full-stack/best%20Full%20Stack%20development%20company%20in%20India.jpg)
 
 <h1 align="center">Hi 👋, I'm Vikas Kashyap</h1>
 <h3 align="center">Full-stack web developer developer trained in HTML, CSS, Javascript,React and Redux. Looking forward to using this personal, analytical, and technical skills effectively and gaining hands-on experience.</h3>
