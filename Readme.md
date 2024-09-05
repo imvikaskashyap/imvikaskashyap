@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, react, redux, Next Js, Node Js, Express Js, MongoDB, MySQL, Tailwind CSS, MUI etc.**
 
-- 📫 How to reach me **id.vikaskashyap@gmail.com**
+- 📫 How to reach me **officialkashyap.vikas@gmail.com**
 
 - 📄 Know about my experiences [[https://docs.google.com/document/d/1zbdbuWtEzB-zpgZmbaKXnw7XeL0ubBfuFy4mJByXYKI/edit?usp=sharing](https://drive.google.com/drive/folders/1RTgbgf8cB6eB8yb_vjowTLZyeeabSWzb?usp=sharing)]
 
