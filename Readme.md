@@ -15,7 +15,7 @@
 
 <!-- - 📝 I write articles on [https://medium.com/@ss2958560](https://medium.com/@ss2958560) -->
 
-- 💬 Ask me about **HTML, CSS, JavaScript, react, redux.**
+- 💬 Ask me about **HTML, CSS, JavaScript, react, redux, Next Js, Node Js, Express Js, MongoDB, MySQL, Tailwind CSS, MUI etc.**
 
 - 📫 How to reach me **id.vikaskashyap@gmail.com**
 
