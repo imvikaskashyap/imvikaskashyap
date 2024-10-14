@@ -1,21 +1,22 @@
 ![MasterHead](https://www.9series.com/img/services/full-stack/best%20Full%20Stack%20development%20company%20in%20India.jpg)
 
 <h1 align="center">Hi 👋, I'm Vikas Kashyap</h1>
-<h3 align="center">Full-stack web developer developer trained in HTML, CSS, Javascript,React and Redux. Looking forward to using this personal, analytical, and technical skills effectively and gaining hands-on experience.</h3>
+<h3 align="center">Seeking a <b>MERN Stack / Mobile App Developer</b> roles with a forward-thinking organization, where I can leverage my
+expertise in MongoDB, Express.js, React.js, Node.js and React Native to drive innovation and accelerate career growth.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6587ec1b3304a4351679cd4324e47a86ac3e17f878d446bf0e8e6856551d80ba/68747470733a2f2f7468656e696e65686572747a2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30362f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
 
 
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👯 I’m looking to collaborate on **Any Project**
 
-- 👨‍💻 All of my projects are available at [https://vikas-resume.vercel.app/](https://vikas-resume.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://vikas-resume.vercel.app/]([https://vikas-resume.vercel.app/](https://my-portfolio-eta-amber.vercel.app/))
 
 <!-- - 📝 I write articles on [https://medium.com/@ss2958560](https://medium.com/@ss2958560) -->
 
-- 💬 Ask me about **HTML, CSS, JavaScript, react, redux, Next Js, Node Js, Express Js, MongoDB, MySQL, Tailwind CSS, MUI etc.**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Next Js, Node Js, Express Js, MongoDB, MySQL, Tailwind CSS, MUI, React Native, React Native Expo, Appwrite, Redis,Firebase, ShadCn, Solidity, HardHat, Ether.js  etc.**
 
 - 📫 How to reach me **ikashyapvikas@gmail.com**
 
