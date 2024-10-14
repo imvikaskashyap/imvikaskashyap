@@ -1,5 +1,4 @@
-![MasterHead]([https://png.pngtree.com/thumb_back/fh260/background/20230722/pngtree-software-developer-conducting-quality-check-on-3d-gaming-software-and-application-image_3771481.jpg](https://png.pngtree.com/thumb_back/fh260/background/20230722/pngtree-software-developer-conducting-quality-check-on-3d-gaming-software-and-application-image_3771481.jpg)
-
+![MasterHead](https://www.9series.com/img/services/full-stack/best%20Full%20Stack%20development%20company%20in%20India.jpg)
 <h1 align="center">Hi 👋, I'm Vikas Kashyap</h1>
 <h3 align="center">Seeking a <b>MERN Stack / Mobile App Developer</b> roles with a forward-thinking organization, where I can leverage my
 expertise in MongoDB, Express.js, React.js, Node.js and React Native to drive innovation and accelerate career growth.</h3>
