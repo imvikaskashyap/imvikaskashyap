@@ -12,7 +12,7 @@ expertise in MongoDB, Express.js, React.js, Node.js and React Native to drive in
 
 - 👯 I’m looking to collaborate on **Any Project**
 
-- 👨‍💻 All of my projects are available at [https://vikas-resume.vercel.app/]([https://vikas-resume.vercel.app/](https://my-portfolio-eta-amber.vercel.app/))
+- 👨‍💻 All of my projects are available at [https://my-portfolio-eta-amber.vercel.app/](https://my-portfolio-eta-amber.vercel.app/)
 
 <!-- - 📝 I write articles on [https://medium.com/@ss2958560](https://medium.com/@ss2958560) -->
 
