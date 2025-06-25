@@ -8,7 +8,7 @@ platforms. </h3>
 
 
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **Any Project**
 
