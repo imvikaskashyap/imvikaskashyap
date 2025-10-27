@@ -30,7 +30,7 @@ platforms. </h3>
 <p align="left">
 
 <a href="https://www.linkedin.com/in/vikas-kashyap-bb7a5318b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/swati-sharma-4097781b0/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ivikaskashyap/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swati_sharma2810" height="30" width="40" /></a>
+<!-- <a href="https://www.instagram.com/ivikaskashyap/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swati_sharma2810" height="30" width="40" /></a> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
