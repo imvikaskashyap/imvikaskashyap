@@ -16,7 +16,7 @@ platforms. </h3>
 
 <!-- - 📝 I write articles on [https://medium.com/@ss2958560](https://medium.com/@ss2958560) -->
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Next Js, Node Js, Express Js, MongoDB, MySQL, Tailwind CSS, MUI, React Native, React Native Expo, Appwrite, Redis,Firebase, ShadCn, Solidity, HardHat, Ether.js  etc.**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Next Js, Node Js, Express Js, MongoDB, MySQL, AWS, Docker, Kubernetes, Tailwind CSS, MUI, React Native, React Native Expo, Appwrite, Redis,Firebase, ShadCn, Solidity, HardHat, Ether.js  etc.**
 
 - 📫 How to reach me **ikashyapvikas@gmail.com**
 
