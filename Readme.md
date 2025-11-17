@@ -20,9 +20,6 @@ platforms. </h3>
 
 - 📫 How to reach me **ikashyapvikas@gmail.com**
 
-- 📄 Know about my experiences [[https://docs.google.com/document/d/1zbdbuWtEzB-zpgZmbaKXnw7XeL0ubBfuFy4mJByXYKI/edit?usp=sharing](https://drive.google.com/drive/folders/1RTgbgf8cB6eB8yb_vjowTLZyeeabSWzb?usp=sharing)]
-
-
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
