@@ -1,6 +1,6 @@
 ![MasterHead](https://www.9series.com/img/services/full-stack/best%20Full%20Stack%20development%20company%20in%20India.jpg)
 <h1 align="center">Hi 👋, I'm Vikas Kashyap</h1>
-<h3 align="center"><b>Full Stack and Mobile App Developer</b> with nearly<b> 2 years</b> of experience in the <b>MERN stack and React Native</b>, creating scalable
+<h3 align="center"><b>Full Stack and Mobile App Developer</b> with over<b> 3+ years</b> of experience in the <b>MERN stack and React Native</b>, creating scalable
 <b>web and mobile applications</b>. Proficient in building <b>esponsive UIs, developing APIs, and optimizing performance</b> across
 platforms. </h3>
 
